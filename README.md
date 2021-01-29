@@ -1,6 +1,6 @@
 # Latte
 
-A Windows network throughput benchmark tool.
+A Windows network latency benchmark tool.
 
 See Releases section for binaries.
 
